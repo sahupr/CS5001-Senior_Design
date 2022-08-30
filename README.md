@@ -32,4 +32,4 @@ sahupr@mail.uc.edu
 </ul>
 
 <h3> Project </h3>
-<p>This project is a collaboration between the Innovative Clinical Data Capture and Use Lab at UCCOM and the Department of Internal Medicine's Residency Program. This is a custom, interactive dashboard using Python, Flask, D3, and SQLite (feel free to replace the technical specs with whatever sounds best for you). This project also includes a data pipeline to facilitate monthly updates to the data pipeline and to run a regression model that identifies an "expected score" for each resident so that they can be assessed accurately and compared to other residents.</p>
+<p>This project is a collaboration between the Innovative Clinical Data Capture and Use Lab at UCCOM and the Department of Internal Medicine's Residency Program. This is a custom, interactive dashboard using Python, Flask, D3, and SQLite. This project also includes a data pipeline to facilitate monthly updates to the data pipeline and to run a regression model that identifies an "expected score" for each resident so that they can be assessed accurately and compared to other residents.</p>
